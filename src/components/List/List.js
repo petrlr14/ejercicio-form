@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-/* <div className={container}>
-      
-    </div> */
-=======
 import React from "react";
 import { Item } from "./Item/Item";
 import { container } from "./List.module.css";
@@ -24,4 +19,3 @@ export const List = ({ list, deleteHandler }) => {
     </div>
   );
 };
->>>>>>> finish
